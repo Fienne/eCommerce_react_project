@@ -1,3 +1,5 @@
+import "./productcard.css"
+
 const ProductCard = () =>{
     return <div className="product-card">
         <img src="./images/Fila.jpg" alt="" />
