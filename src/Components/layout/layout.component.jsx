@@ -1,7 +1,7 @@
 import "./layout.css"
 
     const Layout = () => {
-        return <div className="layout">
+        return <div className="layout row">
             <div className="col-12 navbar-skeleton">
                 {/*My navbar goes here */}
             </div>
