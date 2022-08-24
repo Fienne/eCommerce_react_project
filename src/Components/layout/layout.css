@@ -1,0 +1,14 @@
+.navbar-skeleton{
+    height: 80px;
+    background: red;
+}
+
+.sidebar-skeleton{
+    height: 400px;
+    background: blue;
+}
+
+.main-skeleton{
+    height: 400px;
+    background: yellow;
+}
