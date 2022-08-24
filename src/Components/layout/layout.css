@@ -1,11 +1,11 @@
 .navbar-skeleton{
     height: 80px;
-    background: red;
+    /* background: red; */
 }
 
 .sidebar-skeleton{
     height: 400px;
-    background: blue;
+    /* background: blue; */
 }
 
 .main-skeleton{
